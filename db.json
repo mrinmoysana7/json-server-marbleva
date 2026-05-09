@@ -4,7 +4,7 @@
     "id": "tile_001",
     "title": "Ceramic Blue Elegance",
     "description": "Premium ceramic wall tile with glossy blue finish for modern interiors.",
-    "image": "/images/tiles/tile_001.jpg",
+    "image": "https://images.unsplash.com/photo-1599209250635-26c180f28419",
     "category": "ceramic",
     "price": 45.99,
     "currency": "USD",
